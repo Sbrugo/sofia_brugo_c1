@@ -1,4 +1,8 @@
-#form {
+.form {
+  align-items: center;
   display: flex;
   flex-direction: column;
+}
+.form input {
+  text-align: center;
 }
